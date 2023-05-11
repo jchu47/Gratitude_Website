@@ -273,7 +273,7 @@
                                 </div>
                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                     <ul class="mail-icon">
-                                        <li href="tel:631935-4928"><img src="images/phone_icon.png" /> 631-935-4928</li>
+                                        <li class="phone_num"href="tel:631935-4928"><img src="images/phone_icon.png" /> 631-935-4928</li>
                                         <li><img src="images/mail_icon.png" /> gratitudelandscaping@gmail.com</li>
 
                                     </ul>
