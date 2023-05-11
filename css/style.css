@@ -11,6 +11,9 @@
      line-height: 1.80857;
      font-weight: normal;
 }
+phone_num{
+    color: white
+}
  html {
      scroll-behavior: smooth;
 }
